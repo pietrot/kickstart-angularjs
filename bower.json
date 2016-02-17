@@ -10,10 +10,10 @@
         "grunt"
     ],
     "license" : "MIT",
-    "homepage" : "https://bitbucket.org/ptortorici/kickstart-angularjs",
+    "homepage" : "https://github.com/pietrot/kickstart-angularjs",
     "ignore"   : [
         "**/.*",
-        "vendor",
+        "src/asset/vendor",
         "test"
     ],
     "dependencies"  : {
