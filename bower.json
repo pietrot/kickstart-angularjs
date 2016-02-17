@@ -1,0 +1,24 @@
+{
+    "name" : "kickstart-angularjs",
+    "authors" : [
+        "Pietro T. <pietro.tortorici@gmail.com>"
+    ],
+    "description" : "...",
+    "keywords"    : [
+        "angularjs",
+        "bower",
+        "grunt"
+    ],
+    "license" : "MIT",
+    "homepage" : "https://bitbucket.org/ptortorici/kickstart-angularjs",
+    "ignore"   : [
+        "**/.*",
+        "vendor",
+        "test"
+    ],
+    "dependencies"  : {
+        "angular"       : "~1.5",
+        "angular-route" : "~1.5",
+        "bootstrap"     : "~3.3"
+    }
+}
