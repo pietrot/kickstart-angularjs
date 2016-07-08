@@ -1,0 +1,22 @@
+ {
+  2   "name": "development_packages",
+  3   "version": "1.0.0",
+  4   "description": "",
+  5   "main": "index.js",
+  6   "scripts": {
+  7     "test": "karma start karma.conf.js"
+  8   },
+  9   "author": "",
+ 10   "license": "ISC",
+ 11   "devDependencies": {
+ 12     "jasmine": "^2.4.1",
+ 13     "karma": "^1.1.0",
+ 14     "karma-chrome-launcher": "^1.0.1",
+ 15     "karma-jasmine": "^1.0.2",
+ 16     "karma-ng-html2js-preprocessor": "^1.0.0",
+ 17     "karma-phantomjs-launcher": "^1.0.1",
+ 18     "karma-spec-reporter": "0.0.26",
+ 19     "phantomjs-prebuilt": "^2.1.7",
+ 20     "sinon": "^1.17.4"
+ 21   }
+ 22 }
